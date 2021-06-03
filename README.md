@@ -1,3 +1,3 @@
-# faq
-python faq for imageboards
+# Python-FAQ
+Заготовка для Питон-FAQ для имиджбордов
 
